@@ -52,3 +52,25 @@ weak linear relationship in this dataset.
 ## Project Report
 
 The detailed analysis is available in the project report.
+
+## Visualizations
+
+### 1. Missing Values
+
+![Missing Values](visualizations/missing_values.png)
+
+### 2. Math Score Distribution
+
+![Math Score Distribution](visualizations/math_score_distribution.png)
+
+### 3. Math Score Box Plot
+
+![Math Score Box Plot](visualizations/math_score_boxplot.png)
+
+### 4. Correlation Heatmap
+
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
+
+### 5. Study Hours vs Math Score
+
+![Study Hours vs Math Score](visualizations/study_hours_vs_math_score.png)
