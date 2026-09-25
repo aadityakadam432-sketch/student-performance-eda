@@ -53,7 +53,7 @@ weak linear relationship in this dataset.
 
 The detailed analysis is available in the project report.
 
-## Visualizations ( to view this images go to visualizations-.gitkeep)
+## Visualizations ( to view this images go to visualizations)
 
 ### 1. Missing Values
 
